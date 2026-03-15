@@ -1,0 +1,41 @@
+# Файлы IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Временные файлы
+*.log
+*.tmp
+*.bak
+
+# Операционная система
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Секреты и локальные конфиги
+.env
+.env.local
+*.key
+*.pem
+config.local.*
+secrets.*
+
+# Скомпилированные файлы
+*.exe
+*.class
+*.pyc
+*.o
+
+# Папки зависимостей
+node_modules/
+venv/
+__pycache__/
+vendor/
+
+# Логи и кэш
+logs/
+cache/
+.tmp/
