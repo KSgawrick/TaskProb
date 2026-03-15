@@ -27,6 +27,7 @@ secrets.*
 *.exe
 *.class
 *.pyc
+*.pyi
 *.o
 
 # Папки зависимостей
