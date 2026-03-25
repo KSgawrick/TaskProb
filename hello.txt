@@ -3,9 +3,11 @@ Hello World
 Hola Mundo
 Bonjour le Monde
 Hallo Welt
+Ciao Mondo
 ==================
-Total: 4 languages
+Total: 5 languages
 
+=== Автор: А.С. Пушкин (1825) ===
 Я помню чудное мгновенье:
 Передо мной явилась ты,
 Как мимолетное виденье,
